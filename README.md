@@ -1,1 +1,1 @@
-# Palm-gesture-file-send
+# Huawei-Palm-Gesture-AirDrop 
